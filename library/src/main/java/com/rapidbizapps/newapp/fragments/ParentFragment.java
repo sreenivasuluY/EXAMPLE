@@ -20,14 +20,14 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
+import com.rapidbizapps.newapp.GalleryActivity;
+import com.rapidbizapps.newapp.R;
 
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.TreeSet;
 
-import obu.ckt.rbacamera.GalleryActivity;
-import obu.ckt.rbacamera.R;
 
 
 /**
